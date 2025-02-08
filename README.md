@@ -60,6 +60,30 @@ amigo-secreto/
 ├── assets/          # Recursos (imágenes, íconos, etc.)
 └── README.md        # Documentación del proyecto
 
+## Problemas Comunes
+No se permite realizar el sorteo:
+
+Asegúrate de haber añadido al menos 2 participantes.
+Verifica que no haya nombres duplicados.
+No se muestra correctamente la interfaz:
+
+Asegúrate de que los archivos style.css y app.js están correctamente vinculados en el archivo index.html.
+Usa un servidor local si estás probando en entornos con restricciones.
+El sorteo no parece aleatorio:
+
+Aunque la asignación es aleatoria, los resultados dependerán de las opciones disponibles en cada momento del sorteo.
+
+##Contribuciones
+¡Las contribuciones son bienvenidas! Si tienes una idea para mejorar el proyecto:
+
+Haz un fork del repositorio.
+Crea una nueva rama: git checkout -b mejora-funcionalidad.
+Realiza tus cambios y haz un commit: git commit -m "Agrega una nueva funcionalidad".
+Envía un pull request a este repositorio.
+
+## Licencia
+Este proyecto está licenciado bajo la MIT License. Siéntete libre de usarlo y modificarlo según tus necesidades.
+
 
 1. **Clonar el repositorio:**
 
