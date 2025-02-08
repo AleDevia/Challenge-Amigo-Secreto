@@ -51,6 +51,16 @@ Una vez que hayas añadido al menos 2 participantes, presiona "Sortear amigo" pa
 Los resultados aparecerán en la pantalla, indicando quién es el amigo secreto de cada participante.
 ## Instalación
 
+## Estructura del Proyecto
+amigo-secreto/
+│
+├── index.html       # Archivo principal de la aplicación
+├── style.css        # Estilos de la interfaz
+├── app.js           # Lógica del sorteo y la interacción
+├── assets/          # Recursos (imágenes, íconos, etc.)
+└── README.md        # Documentación del proyecto
+
+
 1. **Clonar el repositorio:**
 
    ```bash
